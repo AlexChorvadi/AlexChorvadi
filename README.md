@@ -12,8 +12,6 @@
 
 - 📌 Gujarat
 
-- 🌱 currently learning **DotNet Core MVC**
-
 - 👨‍💻 All of my projects are available at [Projects](Projects)
 
 - 💬 Ask me about **Jquery, JS, AJAX, Dotnet**
