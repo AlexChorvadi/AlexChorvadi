@@ -1,7 +1,6 @@
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" height="150" />
-  <img src="https://raw.githubusercontent.com/AlexChorvadi/Assets/main/Deep%20Thinking.gif?token=GHSAT0AAAAAACOLJWFA7PI4XAAZ3A5BSVAMZOTN5OQ" height="0" />
 </div>
 
 <h1 align="center">Hey There👋, I'm Krushii</h1>
