@@ -1,10 +1,14 @@
 
 <div align="center">
-  <img height="150" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDgyNTkzNTIsIm5iZiI6MTcwODI1OTA1MiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjE4VDEyMjQxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4MDJmMDQ3NWY1YmFiZDMzODAxOTI2MzFhYjNiM2MyNWY1ZDY1MmJjZmIzYzMzYTBlMGY2MDg0MzdkM2JiYTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.QEH4hVo8tl1hPQT0c2U3DK_3yaJSItMCiKu26NFpHV0"  />
+  <img height="0" src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDgyNTkzNTIsIm5iZiI6MTcwODI1OTA1MiwicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDAyMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwMjE4VDEyMjQxMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWY4MDJmMDQ3NWY1YmFiZDMzODAxOTI2MzFhYjNiM2MyNWY1ZDY1MmJjZmIzYzMzYTBlMGY2MDg0MzdkM2JiYTcmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.QEH4hVo8tl1hPQT0c2U3DK_3yaJSItMCiKu26NFpHV0"  />
+  <img height="150" src="https://user-images.githubusercontent.com/74038190/226190894-18e959ba-d458-4a94-ac44-790190f2a947.gif"  />
 </div>
 
-<h1 align="center">Hi There 👋, I'm Krushii</h1>
+<h1 align="center">I'm Krushii</h1>
 <h3 align="center">A passionate Software developer from India</h3>
+<div align="center">
+  <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexchorvadi&label=Profile%20views&color=0e75b6&style=flat" alt="alexchorvadi" /> </p>
 
@@ -21,7 +25,9 @@
 - ⚡ Fun fact **I think I am a Good Gamer/Coder..**
 
 ###
-
+<div align="center">
+  <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
+</div>
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
@@ -49,7 +55,9 @@
 </div>
 
 ###
-
+<div align="center">
+  <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://twitter.com/chorvadikrushi" target="blank">
@@ -68,7 +76,9 @@
 
 
 ###
-
+<div align="center">
+  <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
+</div>
 <h3 align="left">🔥   My Stats :</h3>
 
 <div align="left">
@@ -81,6 +91,10 @@
 </div>
 
 ###
-
+<div align="center">
+  <img height="1" src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif"  />
+</div>
+<h3 align="left"></h3>
 <div align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexchorvadi" alt="alexchorvadi" /></a> </div>
+    <img src="https://github-profile-trophy.vercel.app/?username=alexchorvadi" alt="alexchorvadi" />
+</div>
