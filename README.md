@@ -17,11 +17,9 @@
 
 - 👨‍💻 All of my projects are available at [Projects](Projects)
 
-- 💬 Ask me about **Jquery, JS, AJAX, Dotnet**
+- 📫 How to reach me [Here](chorvadikrushi01@gmail.com).
 
-- 📫 How to reach me **chorvadikrushi01@gmail.com**
-
-- ⚡ Fun fact **I think I am a Good Gamer/Coder..**
+- ⚡ Fun fact **Wearing headphones for just an hour could increase the bacteria in your ear by 700 times**.
 
 ###
 <div align="center">
