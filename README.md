@@ -19,7 +19,7 @@
 
 - 📫 How to reach me [Here](chorvadikrushi01@gmail.com).
 
-- ⚡ Fun fact **Wearing headphones for just an hour could increase the bacteria in your ear by 700 times**.
+- ⚡ Fun fact **the first computer mouse was made of wood? Invented in 1964 by Douglas Engelbart, it had two wheels and a single button, earning the nickname "mouse" because of its cord resembling a tail! 🖱️🌳**.
 
 ###
 <div align="center">
